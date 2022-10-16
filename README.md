@@ -1,7 +1,4 @@
-![image](https://user-images.githubusercontent.com/112918739/196015572-6b031913-0af3-4014-aff1-791a04def8ad.png)
-
-Users can play a teeko board game with an AI opponent.
-AI opponent is implemented by the MiniMax algorithm.
+![image](https://user-images.githubusercontent.com/112918739/196015759-2b5fd878-ee5b-4629-9755-f74dd8094339.png)
 
 # Game of Teeko 
 
