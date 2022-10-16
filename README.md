@@ -3,7 +3,7 @@
 Users can play a teeko board game with an AI opponent.
 AI opponent is implemented by the MiniMax algorithm.
 
-#Game of Teeko 
+# Game of Teeko 
 
 How to play Teeko
 
